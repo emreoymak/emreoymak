@@ -1,16 +1,28 @@
-### Hi there 👋
+Merhaba, Dünya! 👋
+Ben [EMRE OYMAK], bir Frontend Geliştiriciyim!
 
-<!--
-**emreoymak/emreoymak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Teknoloji dünyasında yeni trendleri takip eden ve kendini sürekli geliştiren biriyim. HTML, CSS ve JavaScript gibi temel web teknolojilerinin yanı sıra React gibi modern framework'lerle de deneyimim bulunmakta.
 
-Here are some ideas to get you started:
+🚀 Hakkımda
+💼 Frontend geliştirme alanında [X] yıl deneyim.
+🌱 Her zaman öğrenmeye açık, yeni teknolojileri keşfetmeyi ve ustalaşmayı seviyorum.
+👯 Takım çalışmasına inanıyorum ve işbirliği yapmaktan keyif alıyorum.
+🛠️ Teknolojik Yetenekler
+HTML
+CSS / SCSS
+JavaScript / TypeScript
+React.js
+ve daha fazlası...
+📫 İletişim
+LinkedIn: Profilin LinkedIn Adresi
+E-posta: E-posta Adresiniz
+🔗 Diğer Bağlantılar
+Kişisel Web Sitesi: www.ornek.com
+GitHub: github.com/kullanıcıadı
+🌟 Ek Bilgi
+Açık kaynak projelerde yer almayı ve topluluğa katkıda bulunmayı seviyorum.
+Müzik dinlemek, kitap okumak ve seyahat etmek hobilerim arasında.
+🚀 İşbirliğine Açık!
+Profilimi ziyaret ettiğiniz için teşekkür ederim. Eğer bir projede birlikte çalışmak ya da herhangi bir soru sormak isterseniz, lütfen çekinmeden iletişime geçin. Birlikte harika şeyler yapalım! 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
